@@ -1,0 +1,16 @@
+{
+  "name": "avans-3.4-ai-assessment-maze",
+  "version": "0.0.1",
+  "description": "assessment voor het vak artificial intelligence",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin (2127258) & Ricardo (2128627)",
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
